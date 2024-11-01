@@ -29,7 +29,7 @@ export default function Home() {
         <h3 className="text-2xl">Hello, ShadCN</h3>
 
         <div>
-      <Button>Click me</Button>
+      <Button>Click Me</Button>
     </div>
 
     <Card>
